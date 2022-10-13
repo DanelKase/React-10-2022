@@ -1,0 +1,21 @@
+.body{
+    background-color: beige}
+
+.nupp{
+    background-color: rgb(131, 255, 127);
+color: rgb(177, 177, 177);
+height: 50px;}
+
+.nupp:hover{
+    height: 70px; width: 120px;
+}
+
+.nupp:active{
+    cursor: grab;
+}
+
+.pilt{
+    height:  720px; float: right;
+}
+
+.tekst{color: rgb(67, 67, 255);font-style: italic;}
